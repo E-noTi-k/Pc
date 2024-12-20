@@ -1,0 +1,4 @@
+https://www.figma.com/design/3YSC0rIDF9LPjhH2yyj8vJ/UX?node-id=0-1&t=Evv93yAsJfx0ckHJ-1
+https://www.figma.com/design/DmQyVj5fdPMRHOM0E81ufV/ui?node-id=0-1&t=QNRt8zbbE9Th36p6-1
+wordpress: admin 12345
+
